@@ -1,6 +1,6 @@
 # Hello World!, I'm Niraj 👋🏼:
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 #### :hammer_and_wrench: Languages and Tools :
 
 <div>
