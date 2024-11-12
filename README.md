@@ -1,5 +1,9 @@
 # Hello World!, I'm Niraj 👋🏼:
 
+### ✨&nbsp; About Me
+
+I am a Full Stack Developer with 1+ year of experience in developing enterprise applications.
+
 ## 💻 Tech Stack:
 #### :hammer_and_wrench: Languages and Tools :
 
